@@ -1,0 +1,6 @@
+{
+  "name": "AI Agent Workflow Designer",
+  "description": "다양한 AI 에이전트를 생성하고 이들 간의 협업 흐름을 설계, 시뮬레이션 및 분석할 수 있는 시각적 워크플로우 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
